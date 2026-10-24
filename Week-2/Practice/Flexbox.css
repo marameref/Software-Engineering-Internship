@@ -1,0 +1,17 @@
+body { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+
+}
+
+
+.box {
+    background-color: lightblue;
+    width: 900px;
+    height: 900px;
+    border-radius: 20px;
+
+
+}
